@@ -1,6 +1,6 @@
 <!-- Banner / Cover Image -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="100%" alt="APCode Banner"/>
+  <img src="https://i.imgur.com/JaOJmKS.png" width="100%" alt="APCode Banner"/> 
 </p>
 
 <!-- Intro -->
