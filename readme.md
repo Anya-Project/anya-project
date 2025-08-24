@@ -1,26 +1,29 @@
 <!-- Banner / Cover Image -->
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="100%" alt="Banner Example"/>
+  <img src="https://i.imgur.com/4M7IWwP.png" width="100%" alt="APCode Banner"/>
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi there, I'm Bayu 👋</h1>
+<h1 align="center">Hi there, we're <strong>Anya-Project Code (APCode)</strong> 👋</h1>
 <p align="center">
-  <em>Script Developer • Traveler • Tech Enthusiast</em>
+  <em>A passionate couple exploring the world of coding & open-source projects</em>
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about **FiveM development & scripting**
-- 🌍 Founder of **Javascope Travel Project**
-- 📚 Currently learning **web development & databases**
-- 🎮 Big fan of **gaming & eSports**
-- ✈️ Love traveling and exploring new cultures
+## 🚀 About Us
+Anya-Project Code (APCode) is created by a couple who love everything about programming.  
+We believe in **sharing knowledge, creating useful projects**, and **making coding fun for everyone**.  
+
+- 💻 Specialize in **FiveM scripts & web development**  
+- 🌍 Love to **explore tech trends** and experiment with new ideas  
+- 🤝 Open for **collaboration & community projects**  
+- 🎨 Passionate about **design, UI/UX, and clean code**  
+- ✈️ Fun fact: We also enjoy traveling and discovering new cultures  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Us
 <p align="center">
   <a href="YOUR_DISCORD_INVITE"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
@@ -31,23 +34,9 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayupamungkas&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayupamungkas&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bayupamungkas&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
 ## 🖼️ Gallery / Projects
-<p align="center">
-  <img src="https://i.imgur.com/GHFShCv.png" width="400" alt="Example Project 1"/>
-  <img src="https://i.imgur.com/4M7IWwP.png" width="400" alt="Example Project 2"/>
-</p>
+<p align=
+
 
 ---
 
